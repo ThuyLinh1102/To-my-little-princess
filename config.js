@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: ' To NML!',
+    introTitle: 'To NML!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim em lẻ loi
@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới có hơn 7 tỉ nụ cười mà sao anh lại .... ',
     btnReply: 'Gửi cho nóc nhà <3',
     reply: 'Tự nhiên đâm đầu vào con quỷ nhỏ nì -.-',
-    mess: '"Iu công chúa" nhiều nhiều 😘',
+    mess: 'Iu công chúa" nhiều nhiều 😘',
     messDesc: 'Mãi bên nhau bạn nhé',
     btnAccept: 'Oki lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy

@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới có hơn 7 tỉ nụ cười mà sao anh lại .... ',
     btnReply: 'Gửi cho nóc nhà <3',
     reply: 'Tự nhiên đâm đầu vào con quỷ nhỏ nì -.-',
-    mess: 'Iu "công chúa" nhiều nhiều 😘',
+    mess: 'Iu "công chúa" của em nhiều nhiều 😘',
     messDesc: 'Mãi bên nhau bạn nhé',
     btnAccept: 'Oki lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy

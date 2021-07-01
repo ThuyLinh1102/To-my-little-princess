@@ -1,8 +1,8 @@
 const CONFIG = {
     introTitle: 'To NML!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
+    introDesc: `Trái đất vốn lạ thường.
+    Mà sao anh cứ đi nhầm đường.
+    Lạc vào tim em lẻ loi.
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Sến wá',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
